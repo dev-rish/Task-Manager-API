@@ -23,7 +23,7 @@ Install all the dependencies by running the following command from the root dire
 
 `npm install`
 ## Setup
-1. Create a folder `config`  
+1. Create a folder `config` in the root directory of the project  
 1. Create a file `dev.env` inside `config`  
 1. Paste the following code inside it  
 `PORT=3000`  
