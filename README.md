@@ -12,8 +12,10 @@ This is simple API that enables a logged in user to manage list of tasks via HTT
 * Update account details
 * Delete Account  
 
-**To run the API directly from server, use [Postman](https://www.getpostman.com/downloads/) and simply use the follwoing url with various routes as listed below**
-https://rish-task-manager-api.herokuapp.com/{route}
+**To run the API directly from server, use [Postman](https://www.getpostman.com/downloads/) and simply use the follwoing url with various routes as listed in the _Routes_ section**
+https://rish-task-manager-api.herokuapp.com/{route}  
+
+**To run the API locally, read the instructions below**
 
 ## Prerequisites
 * [NodeJS](https://nodejs.org/) required  
@@ -38,9 +40,9 @@ Install all the dependencies by running the following command from the root dire
 `JWT_SECRET=`_YOUR SECRET_  
 `MONGODB_URI=mongodb://127.0.0.1:27017/task-manager-api-test` 
 ## Start Project
-`npm dev`
+`npm run dev`
 ## Test Project 
-`npm test`
+`npm run test`
 ## Routes
 ### Routes for users
 * **Signup User**  
