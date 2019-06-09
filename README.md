@@ -10,7 +10,10 @@ This is simple API that enables a logged in user to manage list of tasks via HTT
 * Complete or Incomplete
 * Upload Avatar Picture
 * Update account details
-* Delete Account
+* Delete Account  
+
+**To run the API directly from server, use [Postman](https://www.getpostman.com/downloads/) and simply use the follwoing url with various routes as listed below**
+https://rish-task-manager-api.herokuapp.com/{route}
 
 ## Prerequisites
 * [NodeJS](https://nodejs.org/) required  
