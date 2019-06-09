@@ -1,4 +1,4 @@
-# Task-Manager-API
+# Task Manager API
 
 This is simple API that enables a logged in user to manage list of tasks via HTTP Requests. The API provides functionalities like
 * Create a Task
